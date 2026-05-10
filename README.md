@@ -11,7 +11,7 @@ No author names, institution names, or paper titles are included.
 ## Contents
 
 - trajectories/
-  - <scenario>/
+  - {scenario}/
     - kg_cfr_full/
       - run_XX.json
 
