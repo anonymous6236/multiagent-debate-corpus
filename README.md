@@ -26,3 +26,6 @@ No author names, institution names, or paper titles are included.
 - Each file is a single trajectory JSON with session metadata and turn logs.
 - The condition folder is fixed as kg_cfr_full for all runs.
 - Filenames are normalized to run_00.json through run_29.json per scenario.
+
+## Phase 4: Active Provenance Gate (APG) Implementation
+The complete runtime orchestration code, LangGraph state machine, self-healing fallback loop, and exact system/auditor prompt templates for Phase 4 are available in [`apg_subgraph.py`](apg_subgraph.py).
